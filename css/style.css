@@ -49,17 +49,11 @@ body {
 }
 
 .logo h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     color: #ffffff;
     font-weight: 700;
     text-shadow: 3px 3px 25px rgba(0, 0, 0, 0.8);
-    margin-bottom: 10px;
-}
-
-.logo p {
-    font-size: 1.5rem;
-    color: #e0e0e0;
-    text-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+    margin-bottom: 0;
 }
 
 .download-button {
@@ -155,11 +149,7 @@ body {
 /* 태블릿 대응 */
 @media (max-width: 1024px) {
     .logo h1 {
-        font-size: 3rem;
-    }
-
-    .logo p {
-        font-size: 1.3rem;
+        font-size: 4rem;
     }
 
     .download-button a {
@@ -183,11 +173,7 @@ body {
     }
 
     .logo h1 {
-        font-size: 2.5rem;
-    }
-
-    .logo p {
-        font-size: 1.2rem;
+        font-size: 3rem;
     }
 
     .download-button {
@@ -229,11 +215,7 @@ body {
 /* 작은 모바일 대응 */
 @media (max-width: 480px) {
     .logo h1 {
-        font-size: 2rem;
-    }
-
-    .logo p {
-        font-size: 1rem;
+        font-size: 2.5rem;
     }
 
     .download-button a {
