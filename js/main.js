@@ -2,6 +2,6 @@
 document.getElementById('downloadBtn').addEventListener('click', function(e) {
     e.preventDefault();
     // 실제 다운로드 링크로 교체하세요
-    alert('Demo download will begin soon!');
+    alert('Coming soon!');
     // window.location.href = 'your-download-link.zip';
 });
